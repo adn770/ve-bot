@@ -1,0 +1,8 @@
+# settings
+.vebot.json
+
+# Other
+__pycache__/
+.doit.*
+.DS_Store
+

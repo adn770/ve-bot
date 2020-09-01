@@ -1,0 +1,88 @@
+{
+  "Id": "rumors",
+  "Title": "Barrowmaze: rumors aleatoris",
+  "Type": 2,
+  "Die": "1d20",
+  "Pages": [
+    {
+      "Id": "1",
+      "Details": "Es diu que hi viuen persones deformades i mutades a Barrowmaze. (Cert)"
+    },
+    {
+      "Id": "2",
+      "Details": "Totes les entrades a Barrowmaze tenen trampes. (Fals)"
+    },
+    {
+      "Id": "3",
+      "Details": "Els saquejadors de tombes han tornat recentment amb un calze de plata valorat en 666 po. (Cert)"
+    },
+    {
+      "Id": "4",
+      "Details": "Un poderós guerrer malvat i la seva banda utilitzen Barrowmaze com a amagatall. (Fals)"
+    },
+    {
+      "Id": "5",
+      "Details": "Recentment una jove donzella èlfica va ser alliberada de Barrowmaze. (Fals)"
+    },
+    {
+      "Id": "6",
+      "Details": "Es pot trobar piles d'objectes màgics a les criptes del sud. (Fals)"
+    },
+    {
+      "Id": "7",
+      "Details": "La gent mutada de Barrowmaze custodia tresors meravellosos tresors. (Fals)"
+    },
+    {
+      "Id": "8",
+      "Details": "Per seguretat, buscar les piscines. (Fals)"
+    },
+    {
+      "Id": "9",
+      "Details": "Barrowmaze té quatre nivells de profunditat. (Fals)"
+    },
+    {
+      "Id": "10",
+      "Details": "Els Elegits, una antiga secta del déu de la mort Nergal, van ser enterrats a les catacumbes. (Cert)"
+    },
+    {
+      "Id": "11",
+      "Details": "Els altars són molt perillosos. (Cert)"
+    },
+    {
+      "Id": "12",
+      "Details": "Diferents tribus d'humanoides tenen la seva llar al  Tossalar. (Fals)"
+    },
+    {
+      "Id": "13",
+      "Details": "Els Homes granota, o Granyotics, tenen la seva llar als fangars del Túmulmoll. (Cert)"
+    },
+    {
+      "Id": "14",
+      "Details": "Els no-morts s'han vist caminant pel Túmulmoll cada vegada més sovint. (Cert)"
+    },
+    {
+      "Id": "15",
+      "Details": "Les tauletes rúniques contenen malediccions, però algunes contenen informació. (Cert)"
+    },
+    {
+      "Id": "16",
+      "Details": "Les tauletes rúniques maleeixen a qui les llegeix. Aneu amb compte! (Cert)"
+    },
+    {
+      "Id": "17",
+      "Details": "Tots els rumors són certs. (Fals)"
+    },
+    {
+      "Id": "18",
+      "Details": "La gent mutada de Barrowmaze esclavitza els humans. (Fals)"
+    },
+    {
+      "Id": "19",
+      "Details": "Els rumors són rondalles populars; els túmuls no són res més que un antic cementiri. (Fals)"
+    },
+    {
+      "Id": "20",
+      "Details": "Els esperits dels morts no us faran mal si deixeu una ofrena a cada túmul. (Fals)"
+    }
+  ]
+}

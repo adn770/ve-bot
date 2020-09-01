@@ -1,0 +1,32 @@
+{
+  "Id": "7",
+  "Title": "Barrowmaze: reomplir les catacumbes",
+  "Type": 2,
+  "Die": "1d6",
+  "Pages": [
+    {
+      "Id": "1",
+      "Details": "Monstre"
+    },
+    {
+      "Id": "2",
+      "Details": "Monstre i tresor"
+    },
+    {
+      "Id": "3-6",
+      "Details": "Buida",
+      "Table": {
+        "Id": "7.6",
+        "Title": "Barrowmaze: reomplir les catacumbes, buida",
+        "Type": 2,
+        "Die": "1d6",
+        "Pages": [
+          {
+            "Id": "6",
+            "Details": "Aparentment buida, però hi ha un tresor amagat"
+          }
+        ]
+      }
+    }
+  ]
+}

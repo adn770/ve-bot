@@ -1,0 +1,6 @@
+docopt~=0.6.2
+discord.py[voice]~=1.4.1
+py-rolldice~=0.4.0
+pylint~=2.6.0
+flake8~=3.8.3
+doit~=0.32.0

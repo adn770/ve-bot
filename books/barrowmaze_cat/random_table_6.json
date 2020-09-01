@@ -1,0 +1,122 @@
+{
+  "Id": "6",
+  "Title": "Descripcions i efectes de les tauletes rúniques",
+  "Type": 2,
+  "Die": "1d20",
+  "Pages": [
+    {
+      "Id": "1",
+      "Details": "Salvació contra mort o morir."
+    },
+    {
+      "Id": "2",
+      "Details": "Salvació contra encanteri o maledicció (amnèsia)."
+    },
+    {
+      "Id": "3",
+      "Details": "Salvació contra encanteri o maledicció (ceguera)."
+    },
+    {
+      "Id": "4",
+      "Details": "Salvació contra encanteri o maledicció (bogeria)."
+    },
+    {
+      "Id": "5",
+      "Details": "Salvació contra encanteri o maledicció (putrefacció de mòmia)."
+    },
+    {
+      "Id": "6",
+      "Details": "Salvació contra encanteri o sofrir feblesa."
+    },
+    {
+      "Id": "7",
+      "Details": "Salvació contra encanteri o sofrir debilitat mental."
+    },
+    {
+      "Id": "8",
+      "Details": "Salvació contra encanteri o sofrir confusió."
+    },
+    {
+      "Id": "9",
+      "Details": "Es fallarà la següent tirada de salvació."
+    },
+    {
+      "Id": "10",
+      "Details": "Glif de protecció (foc: 10 PV o salvació per  1⁄2)"
+    },
+    {
+      "Id": "11",
+      "Details": "Proporciona informació històrica de la Tauleta del Caos."
+    },
+    {
+      "Id": "12",
+      "Details": "Proporciona informació històrica sobre  Nergal."
+    },
+    {
+      "Id": "13",
+      "Details": "Proporciona informació històrica sobre  Set i Orcus."
+    },
+    {
+      "Id": "14",
+      "Details": "És una part d'un mapa (a discreció del DJ)."
+    },
+    {
+      "Id": "15",
+      "Details": "La tauleta és un encanteri (aleatori)  de mag de 3r nivell."
+    },
+    {
+      "Id": "16",
+      "Details": "La tauleta és un encanteri (aleatori)  de clergue de 3r nivell."
+    },
+    {
+      "Id": "17",
+      "Details": "Es rep l'efecte d'un encanteri de Benedicció."
+    },
+    {
+      "Id": "18",
+      "Details": "Es rep l'efecte d'un encanteri de Protecció del Mal."
+    },
+    {
+      "Id": "19",
+      "Details": "Es tindrà èxit en la propera tirada de salvació."
+    },
+    {
+      "Id": "20",
+      "Details": "Es guanya +1 a l'atribut: ",
+      "Table": {
+        "Id": "6.20",
+        "Title": "Característica aleatòria",
+        "Type": 2,
+        "Die": "1d6",
+        "rop": "concat",
+        "Pages": [
+          {
+            "Id": "1",
+            "Details": "força"
+          },
+          {
+            "Id": "2",
+            "Details": "destresa"
+          },
+          {
+            "Id": "3",
+            "Details": "constitució"
+          },
+          {
+            "Id": "4",
+            "Details": "saviesa"
+          },
+          {
+            "Id": "5",
+            "Details": "intel·ligència"
+          },
+          {
+            "Id": "6",
+            "Details": "carisma"
+          }
+        ]
+      }
+
+    }
+  ]
+}

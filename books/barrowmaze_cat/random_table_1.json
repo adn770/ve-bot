@@ -1,0 +1,136 @@
+{
+  "Id": "1",
+  "Title": "Encontres Aleatoris al Tumulmoll",
+  "Type": 2,
+  "Die": "1d10",
+  "Pages": [
+    {
+      "Id": "1",
+      "Details": "Nivells 1-2: # granyotic$",
+      "Number": "2d4"
+    },
+    {
+      "Id": "2",
+      "Details": "Nivells 1-2: Un grup d’aventurers rivals: ",
+      "Table": {
+        "Id": "1.2",
+        "Title": "Grup d'aventurers",
+        "Type": 2,
+        "Die": "1d6",
+        "rop": "concat",
+        "Pages": [
+          {
+            "Id": "1",
+            "Details": "Renata la lladre"
+          },
+          {
+            "Id": "2",
+            "Details": "Els nòrdics xiuxiuejants"
+          },
+          {
+            "Id": "3",
+            "Details": "Els cinc temibles"
+          },
+          {
+            "Id": "4",
+            "Details": "Els bastards d’Aiguamoix"
+          },
+          {
+            "Id": "5",
+            "Details": "Els bandolers de Bertrand"
+          },
+          {
+            "Id": "6",
+            "Details": "Els escoltes d’Uleck"
+          }
+        ]
+      }
+    },
+    {
+      "Id": "3",
+      "Details": "Nivells 1-2: # cocodril$ ordinari$",
+      "Number": "1d4"
+    },
+    {
+      "Id": "4",
+      "Details": "Nivells 1-2: # pterodàctil$",
+      "Number": "1d4 + 1"
+    },
+    {
+      "Id": "5",
+      "Details": "Nivells 1-2: # llop$",
+      "Number": "2d6"
+    },
+    {
+      "Id": "6",
+      "Details": "Nivells 1-2: # esquelet$",
+      "Number": "1d8"
+    },
+    {
+      "Id": "7",
+      "Details": "Nivells 1-2: # zombie$s",
+      "Number": "1d6"
+    },
+    {
+      "Id": "8",
+      "Details": "Nivells 1-2: # granota$(-es), gegant$(es) verinós$(es)",
+      "Number": "2d4"
+    },
+    {
+      "Id": "9",
+      "Details": "Nivells 1-2: un eixam d’insectes"
+    },
+    {
+      "Id": "10",
+      "Details": "Nivells 1-2: encontre del següent nivell"
+    },
+    {
+      "Id": "1",
+      "Details": "Nivells 3-4: # bec$ destral",
+      "Number": "1d6"
+    },
+    {
+      "Id": "2",
+      "Details": "Nivells 3-4: # llangardanic$",
+      "Number": "2d4"
+    },
+    {
+      "Id": "3",
+      "Details": "Nivells 3-4: # neandertal$",
+      "Number": "2d4"
+    },
+    {
+      "Id": "4",
+      "Details": "Nivells 3-4: # gripau$ gegant$",
+      "Number": "1d4"
+    },
+    {
+      "Id": "5",
+      "Details": "Nivells 3-4: #a sangonera$(-es) gegant$",
+      "Number": "1d4"
+    },
+    {
+      "Id": "6",
+      "Details": "Nivells 3-4: # gul$",
+      "Number": "1d6"
+    },
+    {
+      "Id": "7",
+      "Details": "Nivells 3-4: # pteranodont$",
+      "Number": "1d2"
+    },
+    {
+      "Id": "8",
+      "Details": "Nivells 3-4: una serp pitó gegant"
+    },
+    {
+      "Id": "9",
+      "Details": "Nivells 3-4: # voltor$ gegant$",
+      "Number": "1d2"
+    },
+    {
+      "Id": "10",
+      "Details": "Nivells 3-4: encontre del següent nivell"
+    }
+  ]
+}
